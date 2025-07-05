@@ -65,6 +65,7 @@
 </div>
 
 ###
+![Snake animation](https://github.com/drineruu/drineruu/raw/output/snake.svg)
 
 <img src="https://raw.githubusercontent.com/drineruu/drineruu/output/snake.svg" alt="Snake animation" />
 
